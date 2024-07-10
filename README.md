@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @IrynaFuzhenko
-- 👀 I’m interested in travel
-- 🌱 I’m currently learning english
-  
-- ⚡ Fun fact: watch stand-up
+- 👀 I am interested in travel and currently learning English.
+- ⚡  I also enjoy watching stand-up comedy in my free time.
 
 <!---
 IrynaFuzhenko/IrynaFuzhenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
